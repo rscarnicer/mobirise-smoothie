@@ -1,0 +1,2 @@
+# mobirise-smoothie
+GitHub Pages
